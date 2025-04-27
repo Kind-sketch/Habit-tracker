@@ -19,20 +19,25 @@
 	Team Members:
 			Muhammad Akif U A ([GitHub](https://github.com/Kind-sketch) /  / Developer)
 Your Approach:
-		Seems Basic and fun xD.
+
+	Seems Basic and fun xD.
 Key challenges you addressed
-		First time coding and doing aa hackathon.
+		
+  	First time coding and doing aa hackathon.
 Any pivots, brainstorms, or breakthroughs during hacking
-	Was able to learn alot.
+	
+ 	Was able to learn alot.
 🛠️ Tech Stack
-	Core Technologies Used:
+	
+ 	Core Technologies Used:
 		Frontend:HTML, CSS, JavaScript, React
 		Backend:
 		Database:
 		APIs:
 		Hosting:netlify.app
 Sponsor Technologies Used (if any):
-	 Groq: How you used Groq
+	
+  	Groq: How you used Groq
  	Monad: Your blockchain implementation
  	Fluvio: Real-time data handling
  	Base: AgentKit / OnchainKit / Smart Wallet usage
@@ -49,14 +54,17 @@ Sponsor Technologies Used (if any):
 	5.  **Delete a Habit:** Click the trash can icon next to a habit and confirm the deletion in the browser's pop-up dialog.
 
 📽️ Demo & Deliverables
-	Demo Video Link: [Paste YouTube or Loom link here]
+	
+ 	Demo Video Link: [Paste YouTube or Loom link here]
 	Pitch Deck / PPT Link: [Paste Google Slides / PDF link here]
 ✅ Tasks & Bonus Checklist
-	 All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form (Details in Participant Manual)✅
+	
+  	All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form (Details in Participant Manual)✅
 
 
 🧪 How to Run the Project
-	Core Technologies:
+	
+ 	Core Technologies:
 
 	Core Web Technologies & UI (HTML, CSS, JavaScript, React)
 	Build Tool (Vite)
@@ -85,7 +93,8 @@ Build the Application:
 	
 	Once the server is running, you can access the application by opening a web browser and navigating to the appropriate URL (e.g., http://localhost:3000 or the URL of your deployed server).
 🧬 Future Scope
-														This project was developed as part of a hackathon. While contributions are not actively being sought post-hackathon, feel free to fork the repository and experiment!
+
+	This project was developed as part of a hackathon. While contributions are not actively being sought post-hackathon, feel free to fork the repository and experiment!
 
 
 🏁 Final Words
