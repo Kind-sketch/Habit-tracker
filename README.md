@@ -17,7 +17,7 @@
  	Team Name:
  		solo participant.
 	Team Members:
-			Muhammad Akif U A ([GitHub](https://github.com/Kind-sketch) /  / Developer)
+			Muhammad Akif U A ([GitHub](https://github.com/Kind-sketch) / www.linkedin.com/in/muhammad-akif-u-a-297414322 / Developer)
 Your Approach:
 
 	Seems Basic and fun xD.
